@@ -1,0 +1,21 @@
+{
+  "name": "cc",
+  "version": "1.0.0",
+  "description": "Take Home for goHenry",
+  "main": "index.js",
+  "author": "Horatiu ",
+  "license": "MIT",
+  "scripts": {
+    "dev": "nodemon index.js"
+  },
+  "config": {
+    "port": "8080"
+  },
+  "dependencies": {
+    "http-server": "^0.12.3",
+    "opn": "^6.0.0"
+  },
+  "devDependencies": {
+    "jest": "^26.6.3"
+  }
+}
