@@ -6,10 +6,6 @@ body {
   margin: 26px;
 }
 
-/* .second-page {
-  display: none;
-} */
-
 #title {
   font-size: 23px;
   color: #3a3a3a;
@@ -30,3 +26,5 @@ body {
   font-family: Arial;
   line-height: 1.583;
 }
+
+/* Image , Icon, Title */
